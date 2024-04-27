@@ -9,11 +9,11 @@ To run the Solar Panel Fault Detection System, follow these steps:
    
 `git clone https://github.com/yourusername/solar-panel-fault-detection.git`
 
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    
 `cd solar-panel-fault-detection`
 
-5. Install the required dependencies using pip:
+3. Install the required dependencies using pip:
    
 `pip install -r requirements.txt`
 
