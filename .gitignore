@@ -2,3 +2,4 @@ __pycache__
 venv
 train_ds
 val_ds
+img/

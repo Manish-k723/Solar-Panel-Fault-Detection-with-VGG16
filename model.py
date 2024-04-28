@@ -26,4 +26,4 @@ history = model.fit(train_ds, validation_data=val_ds, epochs=epoch,
 )
 
 model.save('my_model1.keras')
-keras.saving.save_model(model, 'my_model2.keras')
+# keras.saving.save_model(model, 'my_model2.keras')

@@ -4,8 +4,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from tensorflow.keras.models import Sequential, model_from_json
 
-model = tf.keras.models.load_model('its_model.h5')
+model = tf.keras.models.load_model('my_model1.keras')
 
+print(model.summary())
 # json_file = open('model.json', 'r')
 # loaded_model_json = json_file.read()
 # json_file.close()
